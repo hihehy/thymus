@@ -1,4 +1,4 @@
-# thtmus
+# thymus
 
 ## Multi-Instance Learning for Whole-Slide Image Classification
 Divide the 5 thymoma categories (A, AB, B1, B2, B3) into 0 and 1 classes. 0 class contains slides from A and B3 categories. 1 class contains slides from AB, B1, and B2 categories.  
